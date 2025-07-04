@@ -1,5 +1,5 @@
 ConnectID makes it easier to verify who you are, using organisations you already trust.
-You can expect to see ConnectID rolling out gradually across institutions and businesses in Australia during 2023.
+ConnectID has started rolling out gradually across institutions and businesses in Australia.
 
 Find out more about ConnectID at: https://connectid.com.au/
 
