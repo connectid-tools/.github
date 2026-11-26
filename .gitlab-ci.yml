@@ -1,0 +1,12 @@
+default:
+  tags:
+    - ${RUNNER_TAG}
+
+stages:
+  - security-scan
+
+include:
+  # The managed template owns Wiz CLI configuration and enforcement.
+  - project: auspayplus/applus/ci-templates/wiz-code-scan-template
+    ref: main
+    file: wiz-code-scan.gitlab-ci.yml
